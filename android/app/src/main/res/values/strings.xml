@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">JARVIS</string>
+    <string name="jarvis_desc">Advanced Personal AI Assistant for Android</string>
+    <string name="accessibility_service_description">JARVIS Assistive Service allows JARVIS to perform authorized voice-triggered helper actions such as expanding notifications and assistive app navigation.</string>
+    <string name="notification_channel_name">JARVIS Background Service</string>
+    <string name="notification_channel_desc">Active status notification for continuous voice listening and background tasks</string>
+</resources>

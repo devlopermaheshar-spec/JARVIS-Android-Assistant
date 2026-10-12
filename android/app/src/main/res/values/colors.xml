@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Iron Man Stark HUD Palette -->
+    <color name="stark_bg">#070A10</color>
+    <color name="stark_surface">#0E1420</color>
+    <color name="stark_surface_variant">#162032</color>
+    <color name="stark_cyan">#00E5FF</color>
+    <color name="stark_cyan_glow">#4000E5FF</color>
+    <color name="stark_blue">#0077C2</color>
+    <color name="stark_gold">#FFB300</color>
+    <color name="stark_gold_glow">#40FFB300</color>
+    <color name="stark_red">#FF1744</color>
+    <color name="stark_green">#00E676</color>
+    <color name="stark_text_primary">#E1F5FE</color>
+    <color name="stark_text_secondary">#80DEEA</color>
+    <color name="stark_text_muted">#546E7A</color>
+</resources>
